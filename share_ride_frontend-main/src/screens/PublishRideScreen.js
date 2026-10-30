@@ -12,7 +12,8 @@ import {
 import Header from "../components/Header";
 import LocationCard from "../components/LocationCard";
 import RideDetails from "../components/RideDetails";
-import RoutePreview from "../components/RoutePreview";
+//import RoutePreview from "../components/RoutePreview";
+import RoutePreview from "../components/route/RoutePreview";
 import PublishButton from "../components/PublishButton";
 import { COLORS } from "../theme/colors";
 import { publishRide } from "../api/routeApi";
